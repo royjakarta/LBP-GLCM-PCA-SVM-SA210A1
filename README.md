@@ -206,7 +206,7 @@ The workflow relies primarily on the following Python packages:
 
 Typical important files in this repository include:
 
-- `LBP_GLCM_PCA_SVM_model.ipynb`  
+- `LBP GLCM PCA SVM model.ipynb`  
   Main notebook containing preprocessing, feature extraction, training, tuning, evaluation, and validation.
 
 - `requirements.txt`  
