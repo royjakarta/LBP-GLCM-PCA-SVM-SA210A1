@@ -1,0 +1,18 @@
+name: lbp-glcm-pca-svm
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scikit-image
+  - seaborn
+  - joblib
+  - jupyter
+  - pip
+  - pip:
+      - opencv-python
