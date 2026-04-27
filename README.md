@@ -1,4 +1,4 @@
-# LBP–GLCM–PCA(50)–SVM Framework for Six-Stage Microstructural Degradation Classification of SA210 Grade A1 Boiler Steel
+# LBP–GLCM–PCA–SVM Framework for Six-Stage Microstructural Degradation Classification of SA210 Grade A1 Boiler Steel
 
 This repository contains the machine learning workflow developed for six-stage microstructural degradation classification in SA210 Grade A1 ferritic–pearlitic boiler steel. The framework was designed to support stage-based metallographic interpretation of degraded boiler tube microstructures using optical micrographs.
 
