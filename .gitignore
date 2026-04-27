@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw datasets
+SA210A1/
+Validasi_SA210A1/
+data/raw/
+data/full_dataset/
+
+# Generated feature cache
+features/*.npz
+
+# Optional large image outputs
+*.tif
+*.tiff
+
+# Temporary files
+*.tmp
+*.log
+
+# Local configuration
+.local/
