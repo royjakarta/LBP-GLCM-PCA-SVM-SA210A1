@@ -8,11 +8,13 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - seaborn
   - scikit-learn
   - scikit-image
-  - seaborn
+  - opencv
   - joblib
+  - openpyxl
   - jupyter
+  - notebook
+  - ipykernel
   - pip
-  - pip:
-      - opencv-python
