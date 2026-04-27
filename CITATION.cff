@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "LBP–GLCM–PCA–SVM Framework for Six-Stage Microstructural Degradation Classification of SA210 Grade A1 Boiler Steel"
+message: "If you use this workflow, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Santoso
+    given-names: Rio Pudjidarma
+  - family-names: Winarto
+    given-names: Winarto
+  - family-names: Fatriansyah
+    given-names: Jaka Fajar
+repository-code: "https://github.com/royjakarta/LBP-GLCM-PCA-SVM-SA210A1"
+version: "1.0.0"
+date-released: "2026-04-27"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Metallurgically Informed LBP–GLCM–PCA–SVM Framework for Six-Stage Degradation Classification in SA210 Grade A1 Boiler Steel"
+  authors:
+    - family-names: Santoso
+      given-names: Rio Pudjidarma
+    - family-names: Winarto
+      given-names: Winarto
+    - family-names: Fatriansyah
+      given-names: Jaka Fajar
+  journal: "Manuscript in preparation"
+  year: 2026
