@@ -1,0 +1,7 @@
+,StageA,StageB,StageC,StageD,StageE,StageF
+StageA,56,0,1,0,0,0
+StageB,1,56,0,0,0,0
+StageC,3,0,49,1,1,0
+StageD,0,0,5,49,0,0
+StageE,0,0,0,2,54,1
+StageF,0,0,0,0,0,54
